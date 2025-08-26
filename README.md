@@ -1,3 +1,158 @@
+Sure! Here are well-structured answers for each of the interview questions you asked about the Scrum Master role:
+
+---
+
+### 1. **Can you start with your self-introduction?**
+
+Hi, my name is \[Your Name]. I have over \[X] years of experience in IT, with around 2-3 years specifically as a Scrum Master. I’ve worked in companies like \[Company Names], mainly on banking and commercial projects. My role involves facilitating Scrum ceremonies, removing impediments, and ensuring smooth Agile delivery.
+
+---
+
+### 2. **What is Scrum according to you?**
+
+Scrum is a lightweight Agile framework used to manage and complete complex projects. It promotes iterative progress through fixed-length iterations called Sprints, and emphasizes collaboration, flexibility, and delivering value frequently.
+
+---
+
+### 3. **What are the Scrum events?**
+
+There are five main Scrum events:
+
+* Sprint Planning (to plan the work for the Sprint)
+* Daily Scrum (short daily stand-up meetings)
+* Sprint Review (to inspect the outcome of the Sprint)
+* Sprint Retrospective (to reflect and improve processes)
+* The Sprint itself (a time-boxed period where work is done)
+
+---
+
+### 4. **What are the qualities of a Scrum Master?**
+
+A good Scrum Master should be humble, a servant leader, protective of the team, an effective facilitator, and proactive in removing impediments. They must foster collaboration and continuous improvement.
+
+---
+
+### 5. **How will you track impediments in your project?**
+
+Impediments are tracked during Daily Scrums, where team members discuss blockers, and during the Sprint Retrospective, where root causes are analyzed and improvement plans are made. I also maintain an impediment log or use tools like Jira to track and follow up.
+
+---
+
+### 6. **What are the different estimation techniques you know?**
+
+Common estimation techniques include Planning Poker, T-shirt sizing (Small, Medium, Large), and sometimes Story Points based on Fibonacci sequence. My current team mainly uses Planning Poker and T-shirt sizing.
+
+---
+
+### 7. **How will you conduct a Sprint planning? Can you explain in detail?**
+
+Sprint Planning happens at the start of the Sprint. It begins with a refined Product Backlog. The Product Owner presents prioritized items, and the Development Team estimates the effort using Planning Poker or story points. The team breaks down epics into user stories and subtasks. Capacity planning is considered to decide how much work the team can commit to.
+
+---
+
+### 8. **What is the outcome of a retrospective meeting?**
+
+The Retrospective identifies what went well, what didn’t, and what can be improved. It helps the team learn from impediments and challenges faced in the Sprint to improve future performance and processes.
+
+---
+
+### 9. **What is the definition of “Definition of Ready”?**
+
+The Definition of Ready is a set of criteria that a Product Backlog item must meet before it can be taken into a Sprint. It ensures backlog items are well understood, estimated, and actionable, helping the team avoid ambiguity.
+
+---
+
+### 10. **Who writes a user story in your project? Do you know how to write a user story?**
+
+User stories are primarily written by the Product Owner, who breaks down epics into smaller stories during backlog refinement. The Development Team may then further break stories into tasks and estimate them. A user story typically follows the format: “As a \[user], I want \[functionality], so that \[benefit].”
+
+---
+
+### 11. **What is the format for writing a user story?**
+
+A common format is:
+*As a \[role], I want \[goal/desire], so that \[reason/benefit].*
+This helps clarify the who, what, and why of a feature.
+
+---
+
+### 12. **What are the Sprint metrics you used in a project?**
+
+Common Sprint metrics include Velocity (story points completed per Sprint), Sprint Burndown Chart (remaining work over time), Sprint Goal completion, and Customer Satisfaction.
+
+---
+
+### 13. **As a Scrum Master, can you tell one real-time challenge you faced?**
+
+In a previous project, the team’s velocity was low compared to management expectations. I facilitated discussions to identify blockers and re-organized tasks to leverage team members' strengths. Over time, velocity improved from 15-20 story points to 35-40 per Sprint.
+
+---
+
+### 14. **Do you think increasing velocity increases productivity? Why or why not?**
+
+In the short term, artificially increasing velocity can cause burnout or quality issues, leading to Sprint collapse. But in the long term, as the team matures and understands their work better, velocity reflects true productivity and sustainable pace.
+
+---
+
+### 15. **What is a Sprint according to you?**
+
+A Sprint is a fixed time-box, usually 2 weeks, during which the Scrum team commits to delivering a potentially shippable product increment that meets the Sprint Goal.
+
+---
+
+### 16. **What are the advantages and disadvantages of Agile?**
+
+**Advantages:** Agile is highly adaptive to change, promotes customer collaboration, and delivers incremental value frequently. It’s suitable for large and complex projects with evolving requirements.
+**Disadvantages:** Agile may not be ideal for very small teams or projects with rigid deadlines and fixed scope. It requires team discipline and constant collaboration.
+
+---
+
+### 17. **What would you do if a defect is found on the last day of the Sprint during testing?**
+
+I would immediately discuss with the development and testing teams to assess the effort required to fix the defect. If it can be fixed quickly within the Sprint, the team will address it. Otherwise, the defect is logged and prioritized in the next Sprint, with communication to the Product Owner.
+
+---
+
+### 18. **Who owns the deliverables in a Sprint?**
+
+The Development Team owns delivering the Sprint increment, as they are responsible for producing the working product. The Product Owner owns the Product Backlog and prioritization.
+
+---
+
+### 19. **Can you mention a backlog prioritization technique you know?**
+
+I am familiar with the MoSCoW method — Must have, Should have, Could have, Won’t have — which helps prioritize backlog items based on business value and urgency.
+
+---
+
+### 20. **How will you create a Sprint in Jira?**
+
+In Jira, I navigate to the project board, go to the Backlog section, and create a new Sprint. I then drag prioritized backlog items into the Sprint and start the Sprint once the team commits.
+
+---
+
+### 21. **How do you use the Scrum board in Jira?**
+
+The Scrum board displays user stories, tasks, and their statuses (To Do, In Progress, Done). It helps track progress visually and allows the team to update their work items daily. I also use Jira reports like Burndown and Velocity charts to monitor Sprint health.
+
+---
+
+### 22. **How do you use Confluence as a Scrum Master?**
+
+I use Confluence to document meeting notes, Sprint retrospectives, decisions, and share project knowledge. It integrates with Jira to display reports like burn-down charts, making team progress transparent.
+
+---
+
+### 23. **Do you have any questions for me?**
+
+* What is the current Agile maturity level of your teams?
+* What tools and processes are primarily used here?
+* What challenges does your Scrum team currently face?
+* How do you measure success for the Scrum Master role in your organization?
+
+---
+
+If you'd like, I can help tailor these answers further to match your style or the specific company you’re interviewing with!
 
 
 
