@@ -1,3 +1,185 @@
+<h3>Sure! Here are **ideal answers** to the extracted Scrum Master interview questions, modeled to sound professional and clear:</h3>
+
+---
+
+### 1. Can you introduce yourself and tell us about your career journey?
+
+I have a Bachelor’s degree in Commerce and a postgraduate degree in MBA Finance. I started my career in the commercial card process and worked there for three years. In 2016, I joined PayPal as a Customer Advisor and transitioned internally to a Subject Matter Expert. Later, I moved to a Scrum team where I managed agile projects and earned Scrum certification. Overall, I have 9+ years of experience, with 7 years at PayPal, focused on agile project management and Scrum Master roles.
+
+---
+
+### 2. How many years of experience do you have overall and specifically with PayPal?
+
+I have over 9 years of professional experience, with nearly 7 years at PayPal in various roles including Scrum Master.
+
+---
+
+### 3. What is the difference between Agile and Waterfall methodologies?
+
+Waterfall is a linear, sequential approach where each phase must be completed before moving to the next. Agile is iterative and incremental, focusing on flexibility and continuous delivery. Agile encourages collaboration, customer feedback, and adapting to change, while Waterfall is more rigid and plan-driven.
+
+---
+
+### 4. What are the roles in a Scrum team?
+
+The Scrum team consists of three key roles: the Product Owner, who manages the backlog and stakeholder expectations; the Scrum Master, who facilitates the process and removes impediments; and the Development Team, who deliver the product increments.
+
+---
+
+### 5. What is a product increment?
+
+A product increment is the sum of all completed work that meets the Definition of Done at the end of a Sprint. It should be in a usable, potentially shippable state, ready for release or further development.
+
+---
+
+### 6. What are the three C’s in a user story?
+
+The three C’s stand for Card (the user story itself), Conversation (the discussions between stakeholders and the team), and Confirmation (the acceptance criteria that confirm the story is done).
+
+---
+
+### 7. What is an enabler story?
+
+An enabler story supports other user stories by preparing the infrastructure, architecture, or design necessary to deliver business functionality. It usually focuses on technical work rather than direct user value.
+
+---
+
+### 8. Can you briefly explain a Sprint planning meeting?
+
+Sprint Planning happens on the first day of the Sprint where the Product Owner presents the prioritized backlog. The Development Team estimates and commits to the work they can complete during the Sprint, discussing the tasks in detail to ensure clarity.
+
+---
+
+### 9. How often do you refine your product backlog?
+
+I conduct backlog refinement sessions twice per Sprint—usually early and mid-Sprint—to ensure backlog items are well defined, prioritized, and estimated. This keeps the backlog healthy and ready for Sprint Planning.
+
+---
+
+### 10. What is the Definition of Done (DoD) and what are some examples?
+
+The DoD is a shared checklist that defines when a product increment is considered complete. It typically includes criteria such as code complete, peer-reviewed, tested, documented, and approved by the Product Owner. It ensures consistent quality and readiness for release.
+
+---
+
+### 11. What does servant leadership mean to you, and how does the Scrum Master fit into this role?
+
+Servant leadership means supporting and empowering the team rather than commanding it. As a Scrum Master, my role is to facilitate collaboration, remove impediments, foster transparency, and encourage open communication to help the team succeed.
+
+---
+
+### 12. Can you describe a specific impediment you resolved within your team and how you handled it?
+
+Once a team member went on unplanned leave during a Sprint. I immediately reallocated tasks among the remaining members to ensure deliverables stayed on track. I kept communication transparent and ensured the absent member’s tasks were completed once they returned.
+
+---
+
+### 13. What qualities do you think a Scrum team should have?
+
+A Scrum team should be transparent, respectful, self-organized, adaptable to change, and committed to delivering value. Collaboration and openness to feedback are essential for continuous improvement.
+
+---
+
+### 14. What is a working agreement?
+
+A working agreement is a set of agreed-upon norms and commitments that guide team behavior and interactions to ensure effective collaboration.
+
+---
+
+### 15. How do you manage dependencies between teams?
+
+I proactively identify dependencies early, coordinate with other Scrum Masters or teams, and schedule discussions to clarify requirements and timelines. Managing dependencies involves clear communication and contingency planning.
+
+---
+
+### 16. Can you explain conflict management with an example?
+
+When disagreements arise, I listen carefully to all parties to understand their perspectives. For example, if developers face technical challenges affecting delivery, I facilitate a dialogue to find solutions, balancing realistic timelines with stakeholder expectations.
+
+---
+
+### 17. What are story points in Scrum and how do you calculate them?
+
+Story points measure the effort required to complete a user story based on complexity, risk, and effort. We usually estimate story points using Planning Poker and the Fibonacci sequence to reach consensus within the team.
+
+---
+
+### 18. What process improvements have you implemented as a Scrum Master?
+
+I implemented a retrospective practice where team members categorize actions into Stop, Continue, and Start. This encourages open feedback and continuous improvement in processes and team collaboration.
+
+---
+
+### 19. What is the work hierarchy you follow in your project (e.g., in Jira)?
+
+In Jira, work items are structured hierarchically: Epics contain multiple User Stories, which in turn may have Sub-tasks. We track progress using burn-down and burn-up charts to visualize completed and pending work.
+
+---
+
+### 20. How do you use burn-up and burn-down charts?
+
+Burn-down charts show remaining work over time, helping track Sprint progress. Burn-up charts display completed work, showing cumulative progress toward the goal. Both tools help identify risks early and enable timely course correction.
+
+---
+
+### 21. What is empiricism in Scrum?
+
+Empiricism means making decisions based on observation, experience, and experimentation rather than assumptions. Scrum uses transparency, inspection, and adaptation to continually improve the product and process.
+
+---
+
+### 22. If your team has completed only 30% of work by the 8th day of a two-week Sprint, what would you do? How would you communicate with stakeholders?
+
+I would first analyze blockers with the team, remove impediments, and re-plan the remaining work realistically. I would inform the Product Owner about the status and collaborate on prioritizing the remaining items. The Product Owner would then communicate transparently with stakeholders about the updated expectations.
+
+---
+
+### 23. If a user story’s coding is complete but testing is not, can you mark it as done? What is your action plan?
+
+No, the story should not be marked done until testing and acceptance criteria are fully met. I ensure testing starts immediately after coding to maintain flow, and only once verified and accepted by the Product Owner is the story considered complete.
+
+---
+
+### 24. What is the timebox for backlog grooming meetings and how should they be conducted?
+
+Backlog grooming is a timeboxed session, usually 1 hour, held once or twice per Sprint to refine and prioritize backlog items. It involves collaboration between the Product Owner and the team to clarify requirements and estimates.
+
+---
+
+### 25. Who writes the acceptance criteria in your project, and what format do you follow?
+
+Acceptance criteria are primarily written by the Product Owner, often in collaboration with the team. We typically use formats like the Given-When-Then template or MoSCoW prioritization to define clear, testable conditions.
+
+---
+
+### 26. Is it a best practice to cancel a Sprint? Who can decide to cancel it?
+
+Cancelling a Sprint is rare and usually done only if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel a Sprint, after consulting with the Scrum Team.
+
+---
+
+### 27. How do you create a page in Confluence?
+
+In Confluence, you click the “Create” button at the top of the screen and select a page template or blank page. You can add tables, macros, and content, then save or publish the page.
+
+---
+
+### 28. Why have you chosen to apply to our company?
+
+I’m passionate about Scrum and continuous learning. Your company’s agile culture and growth opportunities align with my goal to further develop as a Scrum Master and contribute to a high-performing team.
+
+---
+
+### 29. What are your salary expectations?
+
+I’m looking for a competitive salary aligned with industry standards and commensurate with my experience and skills. I’m open to discussing this further once I understand the role and responsibilities better.
+
+---
+
+Would you like me to help tailor these answers further based on a specific job description or company?
+
+
+
 Sure! Here are well-structured answers for each of the interview questions you asked about the Scrum Master role:
 
 ---
