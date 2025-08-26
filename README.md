@@ -1,7 +1,7 @@
 
 
 
-<h3>Convincing team members to adopt Agile instead of another process (like Waterfall or traditional methods) can be tricky, especially if they're used to a certain way of working. Here’s how you can approach it effectively:<.h3>
+<h3>Convincing team members to adopt Agile instead of another process (like Waterfall or traditional methods) can be tricky, especially if they're used to a certain way of working. Here’s how you can approach it effectively:</h3>
 
 ---
 
