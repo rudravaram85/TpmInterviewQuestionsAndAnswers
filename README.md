@@ -1,5 +1,54 @@
+
                                       <h3>Technical Project Manager Interview Questions and Answers</h3>
 
+<h3>The difference between **Scrum** and **Kanban** lies in their structure, rules, and approach to managing work. Here's a clear breakdown:</h3>
+
+---
+
+### 🔁 **Scrum vs. Kanban – At a Glance**
+
+| Feature                    | **Scrum**                                                  | **Kanban**                                                      |
+| -------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------- |
+| **Framework Type**         | Prescriptive, structured framework                         | Flexible, flow-based method                                     |
+| **Work Organization**      | Time-boxed **Sprints** (usually 1–4 weeks)                 | Continuous flow, no fixed iterations                            |
+| **Roles**                  | Defined roles: Product Owner, Scrum Master, Developers     | No required roles (can be used with any team setup)             |
+| **Ceremonies/Events**      | Sprint Planning, Daily Scrum, Sprint Review, Retrospective | No mandatory events, though daily stand-ups are common          |
+| **Planning**               | Work is planned at the start of each Sprint                | Planning is continuous; work pulled as capacity allows          |
+| **WIP (Work in Progress)** | Controlled indirectly via Sprint commitments               | Explicit **WIP limits** set per workflow stage                  |
+| **Metrics**                | Velocity, Burn-down/Burn-up charts                         | Lead time, Cycle time, Cumulative flow diagram                  |
+| **Change During Work**     | No changes allowed during a Sprint                         | Changes can be made anytime as long as WIP limits are respected |
+| **Goal Focus**             | Sprint Goal – teams commit to a defined outcome            | Focus on optimizing flow and reducing cycle time                |
+
+---
+
+### 📌 **When to Use Scrum:**
+
+* Projects with evolving requirements
+* Teams needing structure and regular feedback loops
+* Products requiring frequent inspection and adaptation
+* When clear roles and ceremonies are helpful
+
+---
+
+### 📌 **When to Use Kanban:**
+
+* Teams handling continuous, reactive work (e.g., support, maintenance)
+* Projects where flexibility and minimizing cycle time are priorities
+* When teams want to start lightweight and evolve their process
+* No need or desire for time-boxed sprints
+
+---
+
+### 🔄 Can They Be Used Together?
+
+Yes! Many teams use **“Scrumban”**, a hybrid approach:
+
+* Scrum’s roles and ceremonies
+* Kanban’s flow-based work and WIP limits
+
+---
+
+Let me know if you'd like a visual comparison chart or a real-world example of how each works.
 
 
 <h3>Managing **dependencies** and bringing **transparency** to them is essential in Scrum, especially when working with multiple teams or complex products. Here's how to approach this effectively:</h3>
